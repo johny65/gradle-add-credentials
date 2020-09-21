@@ -1,0 +1,5 @@
+plugins {
+    id 'nu.studer.credentials' version '2.1'
+}
+
+description = 'Add encrypted credentials to Gradle'
